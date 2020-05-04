@@ -7,6 +7,7 @@ The increasingly ubiquitous presence of biometric solutions and face recognition
 <br>
   
 **Objective**
+<br>
 The goal was to build a fusion of algorithms in order to construct the best suited solution for comparison of a pair of images. This fusion will be driven by qualities computed on each image.
 
 **The data**
