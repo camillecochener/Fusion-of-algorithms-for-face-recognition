@@ -10,10 +10,11 @@ The increasingly ubiquitous presence of biometric solutions and face recognition
 <br>
 The goal was to build a fusion of algorithms in order to construct the best suited solution for comparison of a pair of images. This fusion will be driven by qualities computed on each image.
 
-**The data**
+**The data**  
+<br>
 The data are from IDEMIA databases. 
 
-The training set includes 9.800.713 observations and 37 variables explicatives. 
+The training set includes 9.800.713 observations and 37 variables explicatives. The test set includes 3.768.311 predicted observations which is one-third of the training set.
 
 The variables are as follows:
 
@@ -21,6 +22,3 @@ The variables are as follows:
 * 11 matching scores between the two images (s1 to s11)
 
 <div align='justify'>The match score is a measure of similarity between the first and second biometric feature vectors. When match scores output by different biometric matchers are consolidated in order to arrive at a final recognition decision, fusion is said to be done at the match score level.</div>
-  
-<br>
-The test set includes 3.768.311 predicted observations which is one-third of the training set.
