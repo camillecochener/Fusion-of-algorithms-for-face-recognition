@@ -21,5 +21,6 @@ The variables are as follows:
 * 11 matching scores between the two images (s1 to s11)
 
 <div align='justify'>The match score is a measure of similarity between the first and second biometric feature vectors. When match scores output by different biometric matchers are consolidated in order to arrive at a final recognition decision, fusion is said to be done at the match score level.</div>
-
+  
+<br>
 The test set includes 3.768.311 predicted observations which is one-third of the training set.
